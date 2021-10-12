@@ -3,6 +3,7 @@
     height: 768px;
     max-width: 1366px;
     margin: 0 auto;
+    margin-top: 5%;
     padding: 100px 0;
     display: flex;
     flex-direction: row;
