@@ -3,7 +3,7 @@ import twitter from '../../img/twitter.svg'
 import './styles.css'
 
 const TwittButton = () => (
-    <div class="social-twitter">
+    <div className="social-twitter">
         <a href="/"><img src={twitter} alt=""/></a>
     </div>
 )
