@@ -1,0 +1,12 @@
+.social-twitter{
+    position: fixed;
+    width: 10rem;
+    bottom: 5rem;
+    padding: 10px 50px;
+    right: 0;
+    border-radius: 40px 0 0 40px;
+    background-color: var(--white);
+  }
+  .social-twitter img {
+    width: 50px;
+  }
