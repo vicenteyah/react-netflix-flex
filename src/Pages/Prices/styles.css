@@ -1,0 +1,9 @@
+.main_info_container_prices {
+    height: 768px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
