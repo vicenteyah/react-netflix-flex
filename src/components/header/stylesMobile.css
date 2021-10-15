@@ -1,0 +1,89 @@
+@media all and (max-width: 500px) {
+    header{
+        height: 600px;
+        max-width: 390px;
+        margin: 0 auto;
+    }
+    .container {
+        margin-bottom: 5px;
+        min-height: 75vh;
+        background-image: url('../../img/netflix-wallpaper.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 30px;
+        text-align: center;
+    }
+    
+    .login-container {
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .btnPrimary{
+        background-color: var(--primary-color);
+        color: var(--white);
+        border: none;
+        padding: 10px 20px;
+        border-radius: 8px;
+        font-size: 8px;
+    }
+    
+    
+    .headerSection {
+        margin-top: 10%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .headerSection img{
+       max-width: 60%;
+    }
+    
+    .headerSectionText {
+        margin-top: 5%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    
+    h1{
+        font-family: 'Anton', sans-serif;
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    
+    }
+    
+    h2 {
+        font-family: 'Arimo', sans-serif;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+    
+    .btn-hero {
+        margin-top: 2%;
+        background-color: var(--primary-color);
+        color: var(--white);
+        align-items: center;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 8px 8px;
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+        gap: 25px
+    }
+    
+    .btn-arrow{
+        padding: 20px 30px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    .btn-arrow img {
+        width: 15%;
+    }
+}

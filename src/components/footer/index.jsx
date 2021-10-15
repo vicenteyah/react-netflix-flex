@@ -1,6 +1,7 @@
 import React from 'react'
 import world from '../../img/world.svg'
 import './styles.css'
+import './stylesMobile.css'
 const Footer = () => (
     <footer>
     <div className="footer-title">

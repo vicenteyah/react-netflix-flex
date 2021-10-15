@@ -4,6 +4,7 @@ import prices from '../../img/price.svg'
 import cancel from '../../img/cancel.svg'
 import {Link} from '@reach/router'
 import './styles.css'
+import './NavMobile.css'
 
 const Navigation = ({navtxt1,navtxt2,navtxt3}) => (
     <nav>

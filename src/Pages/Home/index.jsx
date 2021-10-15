@@ -2,6 +2,7 @@ import React from 'react'
 import cancel_devices from '../../img/cancel-devices.png'
 import arrow from '../../img/arrow.svg'
 import './styles.css'
+import './stylesMobile.css'
 
 const Home = () => (
     <section className="section-hero">

@@ -3,6 +3,7 @@ import Navigation from '../Navbar/Navigation'
 import logo from '../../img/logo_netflix.png'
 import arrow from '../../img/arrow.svg'
 import './Styles.css'
+import './stylesMobile.css'
 
 const Header = () => (
     <header className="header">

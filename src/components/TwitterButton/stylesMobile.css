@@ -1,0 +1,14 @@
+@media all and (max-width:500px){
+    .social-twitter{
+        position: fixed;
+        width: 5rem;
+        bottom: 5rem;
+        padding: 10px 10px;
+        right: 0;
+        border-radius: 40px 0 0 40px;
+        background-color: var(--white);
+      }
+      .social-twitter img {
+        width: 50px;
+      }
+}
